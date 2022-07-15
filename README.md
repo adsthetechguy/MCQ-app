@@ -1,0 +1,2 @@
+# MCQ-app
+Multiple Choice Quiz (MCQ) web app is to measure candidate ability with regard to a specific content area.  A multiple choice quiz has a stem which asks a question, describes data or presents a situation.  The responses include a keyed correct response and three or four distractors or foils. The way the item is framed and the type of response required determines whether the item is Recall, Interpretation, or Problem Solving.
